@@ -1,0 +1,10 @@
+{
+  "description": "Helps app growth, product, and localization teams adapt subscription paywalls for new markets with AI-assisted design, side-by-side previews, and fact checks.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
